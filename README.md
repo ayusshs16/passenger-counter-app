@@ -11,7 +11,7 @@ A simple web app to count, save, and reset passenger entries using HTML, CSS, an
 
 ## 🖼️ Preview
 
-![Screenshot]()
+![Screenshot](preview.png)
 
 ## 📁 Project Structure
 
