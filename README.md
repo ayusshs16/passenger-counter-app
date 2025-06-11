@@ -44,4 +44,5 @@ Just open index.html in any modern browser.
 Contributions are welcome! Please open issues and pull requests for improvements, bugs, or new features.
 
 Made with ❤️ by Ayush Srivastava
+
 A simple web app to count, save, and reset passenger entries using HTML, CSS, and JavaScript. Great for learning basic DOM manipulation and styling.
